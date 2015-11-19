@@ -23,7 +23,7 @@
   "author": "Ondrej Maksi",
   "license": "MIT",
   "dependencies": {
-    "react": "^0.13.3"
+    "react": "^0.14.2"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
