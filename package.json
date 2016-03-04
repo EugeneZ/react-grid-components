@@ -1,6 +1,6 @@
 {
-  "name": "react-grid-components",
-  "version": "0.1.1",
+  "name": "react-grid-components-updated",
+  "version": "0.1.2",
   "description": "A set of React components to create a Bootstrap grid, with inline CSS",
   "main": "",
   "scripts": {
@@ -18,9 +18,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/omaksi/react-grid-components.git"
+    "url": "https://github.com/EugeneZ/react-grid-components.git"
   },
-  "author": "Ondrej Maksi",
+  "author": "Eugene Zaretskiy",
   "license": "MIT",
   "dependencies": {
     "react": "^0.14.2"
